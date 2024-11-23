@@ -1,4 +1,4 @@
-![42 Common Core Projects](https://github.com/mpeyre-s/42cursus/ressources/github_resources_banner_common_core_projects.png)
+![42 Common Core Projects](https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_resources.png)
 
 📧 **Email** : [mpeyre-s@student.42perpignan.fr](mailto:mpeyre-s@student.42perpignan.fr)
 🔗 **LinkedIn** : [Mathis Peyre-Schortzen](https://www.linkedin.com/in/mathis-peyre-schortzen/)

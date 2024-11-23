@@ -1,4 +1,6 @@
-<img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_common_core_projects.png" alt="42 Common Core Projects" style="pointer-events: none;">
+<picture>
+  <img alt="42 Common Core Projects" src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_common_core_projects.png">
+</picture>
 
 📧 **Email** : [mpeyre-s@student.42perpignan.fr](mailto:mpeyre-s@student.42perpignan.fr)
 🔗 **LinkedIn** : [Mathis Peyre-Schortzen](https://www.linkedin.com/in/mathis-peyre-schortzen/)

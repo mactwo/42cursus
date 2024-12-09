@@ -24,3 +24,7 @@ Fonction permettant de lire une ligne dans un fichier ou un flux d'entrée.
 ## Born2beroot
 Configuration d'une machine virtuelle sécurisée et administrée sous Linux.
 **Repository** : [Born2beroot](https://github.com/mpeyre-s/42-born2beroot)
+
+## Fract-ol
+Visualisation graphique de fractales mathématiques interactives.
+**Repository** : [Fract-ol](https://github.com/mpeyre-s/42-fract_ol)
